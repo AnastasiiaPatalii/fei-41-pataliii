@@ -6,9 +6,9 @@
 
 ## 👤 Автор
 
-- **ПІБ**: Паталій Анастасія Павлівна
-- **Група**: [Вкажи свою групу, наприклад: ПМІ-41 або схожу]
-- **Керівник**: [Прізвище Ім’я керівника], [науковий ступінь, посада, наприклад: к.т.н., доцент]
+- **ПІБ**: Паталій Анастасія 
+- **Група**: феі-41
+- **Керівник**: Баран Микола
 - **Дата виконання**: 2026 рік
 
 ---
@@ -59,4 +59,6 @@
 
 ```bash
 git clone [https://github.com/anastasiia-patalii/power-grid-optimization.git](https://github.com/anastasiia-patalii/power-grid-optimization.git)
-cd power-grid-optimization pip install -r requirements.txt python app.py
+cd power-grid-optimization 
+pip install -r requirements.txt 
+python app.py
