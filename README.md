@@ -59,7 +59,7 @@
 ### 2. Клонування репозиторію
 
 ```bash
-git clone [https://github.com/anastasiia-patalii/power-grid-optimization.git](https://github.com/anastasiia-patalii/power-grid-optimization.git)
+git clone [https://github.com/AnastasiiaPatalii/fei-41-pataliii.git](https://github.com/AnastasiiaPatalii/fei-41-pataliii.git)
 cd power-grid-optimization 
 pip install -r requirements.txt 
 python app.py
